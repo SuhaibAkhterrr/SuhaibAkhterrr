@@ -47,6 +47,6 @@ AI/Data Science projects
 
 Connect With Me
 
-[LinkedIn](http://www.linkedin.com/in/suhaibakhterr/) • [Kaggle](www.kaggle.com/suhaibakhter)
+[LinkedIn](http://www.linkedin.com/in/suhaibakhterr/) • [Kaggle](http://www.kaggle.com/suhaibakhter)
 
 Feel free to explore my repositories and projects.
