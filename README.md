@@ -1,52 +1,13 @@
-Hi, I'm Suhaib Akhter
-
-Software Engineer | Full-Stack Developer | AI & Data Science Enthusiast
-
-I'm a Software Engineering graduate passionate about building modern websites, web applications, AI-powered solutions, and practical software systems.
-
-I enjoy turning ideas into functional, user-friendly digital products and continuously improving my skills through real-world projects.
-
-What I Do
-
-*  Full-Stack & Web Development
-*  Frontend Development
-*  E-commerce & Business Websites
-*  Artificial Intelligence & Machine Learning
-*  Data Science
-*  Cybersecurity
-*  UI/UX Implementation
-*  Website Maintenance & Bug Fixing
-
-Tech Stack
-
-Languages
-
-`Python` `JavaScript` `C++` `Java` `HTML` `CSS`
-
-Web Development
-
-`React` `JavaScript` `HTML5` `CSS3` `WordPress` `Elementor`
-
-AI & Data Science
-
-`Python` `TensorFlow` `Machine Learning` `Computer Vision` `Data Analysis`
-
-Tools & Platforms
-
-`Git` `GitHub` `VS Code` `Figma` `Google Colab` `Unreal Engine`
-
-Let's Connect
-
-I'm open to:
-
-Software Engineering opportunities
-Freelance projects
-Collaborations
-Web development projects
-AI/Data Science projects
-
-Connect With Me
-
-[LinkedIn](http://www.linkedin.com/in/suhaibakhterr/) • [Kaggle](http://www.kaggle.com/suhaibakhter)
-
-Feel free to explore my repositories and projects.
+I am a Software Engineering graduate working to build my career where technology, project delivery, and business operations meet.
+My focus is on Technical Project Management, Product Operations, and Software Delivery. I bring a mix of knowledge in planning, organizing, solving problems, and getting things done.
+My technical background covers software development basics, databases, web technologies, APIs, cloud computing, Agile methods, and software project planning. I have an interest in turning requirements into tasks that can be done, organizing the technical work, and helping products go from an idea to something people can use.
+I have learned a lot through school projects and other work that involves writing requirements documents using Jira, understanding ideas, software development, and managing projects. I am also working on Aventra, an app focused on vehicle maintenance in Pakistan. I am involved in everything from deciding what the product needs to do making choices about the user experience, designing the database setting up authentication, and getting the app built.
+At the time, I am interested in starting my own business and creating useful digital products and services through UpTech.
+Now I am looking for opportunities in:
+• Technical Project Management
+• Project Coordination
+• IT Project Management
+• Product Operations
+• Software or Technology Operations
+• PMO and Delivery
+I also offer selected services such as website development, technical project coordination, requirements documentation, digital product planning, and website support. If you are hiring, building a product, or need help coordinating a technology project, please feel free to connect or message me. I am interested in opportunities where I can contribute to projects, take ownership, and grow through hands‑on delivery.
